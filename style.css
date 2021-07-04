@@ -1,0 +1,9 @@
+body {font-family: 'Teko', sans-serif;}
+h1{font-size: 90px;}
+.regacok {color: orangered;
+font-size: 110px;}
+h3{font-size: 40px;}
+p{text-align: justify;
+grid-column: auto;
+}
+a{display: inline-block;}
