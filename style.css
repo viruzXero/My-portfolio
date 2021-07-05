@@ -1,18 +1,41 @@
 body {font-family: 'Teko', sans-serif;
 margin: 0%;}
+.orange{color: rgb(2, 1, 15);
+text-align: center;}
 h1{font-size: 50px;}
 .regacok {color: orangered;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 font-size: 70px;}
 h3{font-size: 40px;
 color: rgb(6, 28, 126);}
-p{;
-grid-column: auto;
-font-size: 20px;
-font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
+
 a{display: inline-block;}
-section{display: flex;}
+#ess{border-left: 10px solid;
+    border-image: linear-gradient(purple, red);
+    border-image-slice: 1;}
+.papa {
+
+    box-shadow: 20px 20px 40px
+    gray;
+width: 80%;
+margin-left: 5%;
+margin-right: 5%;
+padding-left: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
+padding-top: 20px;
+border-radius: 20px;
+background-image: linear-gradient(pink, cyan);
+text-align: center;
+
+}
+p{text-align:start;
+    grid-column: auto;
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+.eeee{display: flex;
+}
 .tata{width: 50%;
 padding: 5%;}
 .tata img{width: 90%;}
@@ -23,7 +46,7 @@ color:black;
 padding:10px 20px;
 font-weight: 700;
 border-radius: 5px;}
-.lolo{ padding: 10px; 
+.lolo{  
     padding: bottom 20px; ;
     background-image: url(pix/toto.jpg);
 background-repeat: no-repeat;
@@ -32,7 +55,23 @@ background-size: 100%;}
     background-repeat: no-repeat;
     background-size: 100%;
 padding: 30px;
-display: flex;}
+}
 .ali img{width: 80%;}
 .jiji{padding-top: 100px;}
 .pupu {font-size: 50px;}
+.jojo{text-align: center;}
+.kaka{margin-bottom: 40px;}
+.notun{background-image: url(pix/toto.jpg);
+    font-size: 400px;
+    color: rgba(0, 0, 0, 0.781);
+    padding-bottom: 20px;
+    padding-top: 10px;
+background-size: 100%;
+background-repeat: no-repeat;
+}
+.no{text-align: center;}
+#kk{border-left: 10px solid;
+    border-image: linear-gradient(red, purple);
+    border-image-slice: 1;}
+footer p {text-align: center;
+padding-top: 20px;}
