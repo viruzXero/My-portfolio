@@ -1,11 +1,11 @@
 body {font-family: 'Teko', sans-serif;
 margin: 0%;}
 h1{font-size: 50px;}
-.regacok {color: rgb(252, 248, 247);
+.regacok {color: orangered;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 font-size: 70px;}
 h3{font-size: 40px;
-color: rgb(230, 38, 13);}
+color: rgb(6, 28, 126);}
 p{;
 grid-column: auto;
 font-size: 20px;
@@ -18,15 +18,15 @@ padding: 5%;}
 .tata img{width: 90%;}
 .opop{text-decoration: none;
     font-size: xx-large;
-background-image: linear-gradient(purple, pink);
+background-image: linear-gradient(red, pink);
 color:black;
 padding:10px 20px;
 font-weight: 700;
 border-radius: 5px;}
-.lolo{ background-image: url(pix/bc.jpg);
+.lolo{ background-image: url(pix/toto.jpg);
 background-repeat: no-repeat;
 background-size: 100%;}
-.ali{background-image: url(pix/kiki.jpg);
+.ali{background-image: url(pix/alu.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
 padding: 30px;
